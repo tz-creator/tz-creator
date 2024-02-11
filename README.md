@@ -12,5 +12,5 @@
 <h3 align="left">Freelancing/Support:</h3> 
 <p align="left">
 <a href=" https://www.fiverr.com/brandon_sawyer" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70473461/92360592-5a3bb800-f0ed-11ea-8dce-dd95b72c7825.png" alt="bransawyer" height="30" width="40" /></a>
-<a href="https://www.buymeacoffee.com/brandonsawyer" target="blank"><img align="center" src="https://user-images.githubusercontent.com/16066404/77041853-a2044100-69e0-11ea-8da6-d64822a2c72a.jpg" alt="bransawyerr" height="30" width="40" /></a>
+<a href="https://www.buymeacoffee.com/brandonsawyer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Patreon_logo.svg/800px-Patreon_logo.svg.png" alt="bransawyerr" height="30" width="40" /></a>
 </p>
