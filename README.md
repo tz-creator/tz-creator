@@ -6,7 +6,7 @@
 - 📫 Email me @ **bsawyer873@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
-<a href="https://www.instagram.com/lsfmediaagency/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="bransawyer" height="30" width="40" /></a>
-<a href="https://t.snapchat.com/WxLxenL9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/it/thumb/c/c4/Snapchat_logo.svg/1200px-Snapchat_logo.svg.png" alt="bransawyer" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lsfmediaagency/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bransawyer2" height="30" width="40" /></a>
+<a href="https://t.snapchat.com/WxLxenL9" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/snapchat.svg" alt="bransawyer1" height="30" width="40" /></a>
 <a href=" https://www.fiverr.com/brandon_sawyer" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70473461/92360592-5a3bb800-f0ed-11ea-8dce-dd95b72c7825.png" alt="bransawyer" height="30" width="40" /></a>
 </p>
