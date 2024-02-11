@@ -10,5 +10,6 @@
 <a href="https://t.snapchat.com/WxLxenL9" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/snapchat.svg" alt="bransawyer1" height="30" width="40" /></a>
 
 <h3 align="left">Freelancing/Support:</h3> 
-<a href=" https://www.fiverr.com/brandon_sawyer" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70473461/92360592-5a3bb800-f0ed-11ea-8dce-dd95b72c7825.png" alt="bransawyer" height="30" width="40" /></a>
-<a href="https://www.buymeacoffee.com/brandonsawyer" target="blank"><img align="center" src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" alt="bransawyerr" height="30" width="40" /></a>
+<a href=" https://www.fiverr.com/brandon_sawyer" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70473461/92360592-5a3bb800-f0ed-11ea-8dce-dd95b72c7825.png" alt="bransawyer" height="30" width="40" />
+<a href="https://www.buymeacoffee.com/brandonsawyer" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/buy-me-a-coffee6984.jpg" alt="bransawyerr" height="30" width="40" /></a>
+</a>
