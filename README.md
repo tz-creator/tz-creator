@@ -5,5 +5,7 @@
 - 🔭 I’m currently working on **LSF Media**
 - 📫 Email me @ **bsawyer873@gmail.com**
 
-<h3 align="left">Purchase my FiverrGigs:</h3> <a href=" https://www.fiverr.com/brandon_sawyer" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70473461/92360592-5a3bb800-f0ed-11ea-8dce-dd95b72c7825.png" alt="bransawyer" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3> 
+<a href=" https://www.fiverr.com/brandon_sawyer" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70473461/92360592-5a3bb800-f0ed-11ea-8dce-dd95b72c7825.png" alt="bransawyer" height="30" width="40" /></a>
+
 </p>
