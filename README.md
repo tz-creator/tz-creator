@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **LSF Media**
   <br>
-  |> [and some other troll projects on the side ;)]
+-> [and some other troll projects on the side ;)]
 - 📫 Email me @ **bsawyer873@gmail.com**
 
 <h3 align="left">Socials:</h3> 
